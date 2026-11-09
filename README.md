@@ -46,7 +46,7 @@ Mi trabajo integra biología molecular experimental, análisis bioinformático d
 
 Material académico para estudiantes, en R y con datos reales del laboratorio:
 
-- 🌱 **[aprende-R](https://github.com/ozono7/aprende-R)** — Una lección nueva cada miércoles: problemas cotidianos de las áreas químico-científicas resueltos en R con tidyverse y gráficas estilo revista científica. Desde cero, todo calculado a partir de los datos.
+- 🌱 **[aprende-R](https://github.com/ozono7/aprende-R)** — Una lección nueva cada miércoles: problemas cotidianos de las áreas químico-científicas resueltos en R con tidyverse y gráficas claras. Desde cero, todo calculado a partir de los datos.
 - 📚 Repositorios de enseñanza: [Operaciones_iii](https://github.com/ozono7/Operaciones_iii) · [Tratamiento](https://github.com/ozono7/Tratamiento) · [Fenomenos](https://github.com/ozono7/Fenomenos) · [Biotecnologia-ambiental](https://github.com/ozono7/Biotecnologia-ambiental) · [Proyecto-terminal](https://github.com/ozono7/Proyecto-terminal) · [Introduccion-a-R](https://github.com/ozono7/Introduccion-a-R) · [AlphaFold](https://github.com/ozono7/AlphaFold) · [BioinfoPlus](https://github.com/ozono7/BioinfoPlus)
 
 ## Herramientas
