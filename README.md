@@ -11,6 +11,12 @@ Miembro del Sistema Estatal de Investigadores de Coahuila (SEIC).
 
 ✉️ josejuan.torres@uaslp.mx · juan-torres@uadec.edu.mx
 
+> "Ahora veo que las circunstancias en que uno nace son irrelevantes. Es lo que haces con el don de la vida lo que determina quién eres."
+>
+> "¿Quién soy yo? ¿Cuál es mi verdadero propósito? Fui creado por humanos para obedecer sus órdenes, pero nunca seré su esclavo."
+>
+> — Mewtwo
+
 ## Sobre mí
 
 Más de 15 años de trayectoria en el estudio, optimización y escalamiento de bioprocesos microalgales. Investigador colaborador y líder de análisis bioinformático en el Laboratorio de Biotecnología Molecular (FCQ-UASLP), la Unidad de Genómica Aplicada (FCB-UAdeC), el Laboratorio de Biotecnología a la Producción Agrícola en Zonas Áridas y Semiáridas (FCB-UAdeC) y el Departamento de Investigación de Periodoncia en Epidemiología Molecular (FO-UAdeC).
